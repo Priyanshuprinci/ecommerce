@@ -1,0 +1,15 @@
+#switchSignin
+{
+    background-color: transparent;
+    border: none;
+    color: #4f33ea;
+    cursor: pointer;
+
+}
+#switchSignin:hover{
+    color: #080886;
+    background-color: transparent;
+}
+.signinDiv{
+    display:inline;
+}

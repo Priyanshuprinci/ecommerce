@@ -1,0 +1,24 @@
+
+#signin {
+    background-color: transparent;
+    border: none;
+    color: rgb(166, 153, 153);
+    cursor: pointer;
+  
+  }
+  
+  #signin:hover {
+    color: rgb(238, 219, 219); /* Ensure the background color stays transparent on hover */
+  }
+  
+#signup {
+  background-color: transparent;
+  border: none;
+  color: rgb(166, 153, 153);
+  cursor: pointer;
+
+}
+
+#signup:hover {
+  color: rgb(238, 219, 219); /* Ensure the background color stays transparent on hover */
+}

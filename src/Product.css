@@ -1,0 +1,33 @@
+.outer{
+    display: flex; 
+   
+    flex-wrap: wrap;
+   
+
+    justify-content: space-evenly; 
+  }
+  
+  .card{
+    height: 630px;
+    margin: 20px;
+    width: 350px;
+    border-radius: 20px;
+    padding: 20px;
+  }
+  
+  #images{
+    width: 100%;
+    height: 350px;
+    border-radius: 20px;
+    
+  }
+  
+  body{
+    background-color: thistle;
+  }
+  
+  li{
+    list-style-type: none;
+  }
+  
+  
