@@ -20,6 +20,7 @@ function CartModal() {
           // setShowPayment(true);
           // console.log(cartItems)
           const stripe=await loadStripe("pk_test_51PBcHOSHekcWlW0r1tDBchWcz3LbE7A5BsBqd4LfCEt0x1vmhuDDPie5t3NfnDnZXirHgJLdXm75Du5oSnT3IIxu006wwsj0OO")
+       
           const body={
             products:cartItems
           }
